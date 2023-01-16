@@ -1,1 +1,1 @@
-# The project is moved to: https://github.com/orgs/wine-glass-guide/repositories
+# The project is moved to: https://github.com/wine-glass-guide
